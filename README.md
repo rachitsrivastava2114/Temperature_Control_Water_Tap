@@ -33,7 +33,8 @@ This project implements an automatic temperature-controlled water heater system 
 
 An ultrasonic sensor is used to detect hand or object presence, enabling smart tap activation. System parameters such as distance, temperature, setpoint, and estimated time to reach the desired temperature (ETA) are displayed on an OLED display, providing real-time feedback to the user.
 
-The project demonstrates embedded control, sensor interfacing, and closed-loop temperature regulation suitable for smart home and automation applications. </br>
+The project demonstrates embedded control, sensor interfacing, and closed-loop temperature regulation suitable for smart home and automation applications. <br /> 
+    <br /> 
 <img src="images/Temperature_Control_Water_Tap_Poster.png" style="width: 50%; height: 50%;">
 
 ### Objectives

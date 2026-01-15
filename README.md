@@ -36,7 +36,7 @@ An ultrasonic sensor is used to detect hand or object presence, enabling smart t
 The project demonstrates embedded control, sensor interfacing, and closed-loop temperature regulation suitable for smart home and automation applications. <br /> 
     <br /> 
 <p align = "center">
-<img src="images/Temperature_Control_Water_Tap_Poster.png" style="width: 50%; height: 50%;">
+<img src="images/Temperature_Control_Water_Tap_Poster.png" style="width: 25%; height: 25%;">
 </p>
 
 ### Objectives
@@ -84,6 +84,12 @@ An ultrasonic sensor detects proximity to simulate smart tap activation, while a
 * The ultrasonic sensor detects proximity to enable tap operation
 * ETA to reach the setpoint is calculated using the rate of temperature change
 * All parameters are displayed on the OLED screen in real time
+
+<br /> 
+<br /> 
+<p align = "center">
+<img src="images/Circuit_Implementation.png">
+</p>
 
 ## Control Strategy
 
